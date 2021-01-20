@@ -88,7 +88,7 @@ body {
       <h5>Jan 20 2021 last edited</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>rocketry is pretty hard to get into but with a bottle and alcohol, the sky is the limit! literally...</p>
     </div>
     <div class="card">
       <h2>TITLE HEADING</h2>
@@ -111,8 +111,8 @@ body {
       <div class="fakeimg">Image</div>
     </div>
     <div class="card">
-      <h3>Follow Me</h3>
-      <p>Some text..</p>
+      <h3>my contacts</h3>
+      <p>jerrbearis2cool@gmail.com</p>
     </div>
   </div>
 </div>
