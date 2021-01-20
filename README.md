@@ -87,12 +87,11 @@ body {
       <img src="03eb43ce-a0b3-4c16-8d6b-a60568f49da9.png" alt="picture">
       <p>rocketry is pretty hard to get into but with a bottle and alcohol, the sky is the limit! literally...</p>
     </div>
-    <div class="card">
+    <div class="card">step 2 to the world of rockets
       <h2>DIY rocket fuel without KNO3</h2>
-      <h5>this solid rocket fuel is a combo of match heads and sugar</h5>
+      <h5></h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>this solid rocket fuel is a combo of match heads and sugar.</p>
     </div>
   </div>
   <div class="rightcolumn">
