@@ -98,7 +98,7 @@ body {
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
+      <img src="kerbaldigitalart.jpg" alt="picture">
       <p>i love rockets or anything that flys really</p>
     </div>
     <div class="card">
