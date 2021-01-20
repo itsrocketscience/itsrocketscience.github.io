@@ -1,4 +1,3 @@
-<title>test</title>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -100,7 +99,7 @@ body {
     <div class="card">
       <h2>About Me</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <p>i love rockets or anything that flys really</p>
     </div>
     <div class="card">
       <h3>Popular Post</h3>
