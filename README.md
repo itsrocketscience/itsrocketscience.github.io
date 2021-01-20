@@ -101,10 +101,9 @@ body {
       <p>i love rockets or anything that flys really</p>
     </div>
     <div class="card">
-      <h3>check out my blog hardwarebear.blogspot.com</h3>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div>
+      <h3>check out my blogs</h3>
+      <div class="fakeimg">HardWareBear.blogspot.com</div><br>
+      <div class="fakeimg">pycommunity30.github.io</div><br>
     </div>
     <div class="card">
       <h3>my contacts</h3>
