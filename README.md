@@ -90,14 +90,14 @@ body {
     <div class="card">step 2 to the world of rockets
       <h2>DIY rocket fuel without KNO3</h2>
       <h5></h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
+      <img src="pic_trulli.jpg" alt="picture">
       <p>this solid rocket fuel is a combo of match heads and sugar.</p>
     </div>
   </div>
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
-      <img src="kerbaldigitalart.jpg" alt="picture">
+      <img src="d957230c-2442-42aa-b6cd-1337347019d1.png" alt="picture">
       <p>i love rockets or anything that flys really</p>
     </div>
     <div class="card">
