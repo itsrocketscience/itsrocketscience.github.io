@@ -112,8 +112,8 @@ body {
   </div>
 </div>
 
-<div class="future AD">
-  <h2>Footer</h2>
+<div class="footer">
+  <h2>future AD placement</h2>
 </div>
 
 </body>
