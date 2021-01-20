@@ -86,6 +86,8 @@ body {
       <h5>Jan 20 2021 last edited</h5>
       <img src="03eb43ce-a0b3-4c16-8d6b-a60568f49da9.png" alt="picture" style="width:1000px;height:300px;">
       <p>rocketry is pretty hard to get into but with a bottle and alcohol, the sky is the limit! literally...</p>
+      <br>
+      <p>blog post at <a href="https://itsrocketscience.github.io/DIY-bottle-alcohol-rocket/">this link</a></p>
     </div>
     <div class="card">step 2 to the world of rockets
       <h2>DIY rocket fuel without KNO3</h2>
