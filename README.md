@@ -1,3 +1,4 @@
+itsrocketscience.github.io
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -76,7 +77,7 @@ body {
 <body>
 
 <div class="header">
-  <h2>ItsRocketScience!</h2>
+  <h2>Get Started With Rockets!</h2>
 </div>
 
 <div class="row">
