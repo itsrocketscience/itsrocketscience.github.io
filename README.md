@@ -101,9 +101,10 @@ body {
       <p>i love rockets or anything that flys really</p>
     </div>
     <div class="card">
-      <h3>check out my blogs</h3>
-      <div class="fakeimg">HardWareBear.blogspot.com</div><br>
-      <div class="fakeimg">pycommunity30.github.io</div><br>
+      <h3>my youtube channel</h3>
+      <script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCl35ICkMYAvFroYuUabSvNg" data-layout="default" data-count="default"></div>
     </div>
     <div class="card">
       <h3>my contacts</h3>
