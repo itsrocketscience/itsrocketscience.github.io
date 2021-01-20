@@ -78,7 +78,7 @@ body {
 <body>
 
 <div class="header">
-  <h2>Blog Name</h2>
+  <h2>ItsRocketScience!</h2>
 </div>
 
 <div class="row">
