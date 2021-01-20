@@ -84,7 +84,7 @@ body {
     <div class="card">
       <h2>DIY water bottle alcohol rocket</h2>
       <h5>Jan 20 2021 last edited</h5>
-      <div class="03eb43ce-a0b3-4c16-8d6b-a60568f49da9.png" style="height:200px;">Image</div>
+      <div class="03eb43ce-a0b3-4c16-8d6b-a60568f49da9.png" style="height:200px;">03eb43ce-a0b3-4c16-8d6b-a60568f49da9.png</div>
       <p>Some text..</p>
       <p>rocketry is pretty hard to get into but with a bottle and alcohol, the sky is the limit! literally...</p>
     </div>
