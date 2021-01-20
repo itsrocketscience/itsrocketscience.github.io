@@ -101,7 +101,7 @@ body {
       <p>i love rockets or anything that flys really</p>
     </div>
     <div class="card">
-      <h3>Popular Post</h3>
+      <h3>check out my blog hardwarebear.blogspot.com</h3>
       <div class="fakeimg">Image</div><br>
       <div class="fakeimg">Image</div><br>
       <div class="fakeimg">Image</div>
@@ -113,7 +113,7 @@ body {
   </div>
 </div>
 
-<div class="footer">
+<div class="future AD">
   <h2>Footer</h2>
 </div>
 
